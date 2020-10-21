@@ -1,8 +1,7 @@
 ## Welcome to Team C's Online Repo
 
-You can use the [editor on GitHub](https://github.com/teddy-kalp/teddy-kalp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project idea
+# Our team project idea focuses on the idea of allowing for an enhanced user experience when it comes to various interactions between students and faculty in schools. We feel that the current methods in place may not be practical as many students don’t feel engaged in the classroom and are therefore unable to learn certain topics to the best of their ability, so we plan to create a tablet application to help students become more engaged in their learning. How our application is going to be used depends on how the faculty chooses to use it. They would be able to use our tablet application for teaching, allow students to take notes and answer questions, collaborative work, and much more. One main goal of this project is to enhance the experience of students inside and outside of the classroom workspace so that they feel that they are able to efficiently learn and be able to manage their time better with the convenience of our application. As for faculty, we wish to provide an application that would allow for them to easily plan lectures, engage more with the students, and allow for them to be more easily accessible in case students wish to reach them. We believe that this technology would be used in all schools excluding post-secondary education as most students in university will possess a laptop and would most likely refrain from using this application.
 
 ### Markdown
 
